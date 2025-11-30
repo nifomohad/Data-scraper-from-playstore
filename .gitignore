@@ -1,5 +1,5 @@
 /venv
 /data
 /notebook/preprocessing_EDA.ipynb
-scripts/scraper.py
+
 scripts/preprocessing.py
