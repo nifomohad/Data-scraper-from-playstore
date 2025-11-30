@@ -36,7 +36,7 @@ SCRAPING_CONFIG = {
 DATA_PATHS = {
     'raw': os.path.join(PROJECT_ROOT, 'data', 'raw'),
     'processed': os.path.join(PROJECT_ROOT, 'data', 'processed'),
-    'raw_reviews': os.path.join(PROJECT_ROOT, 'data', 'raw', 'reviews_raw.csv'),
+    'raw_reviews': os.path.join(PROJECT_ROOT, 'data', 'raw', 'raw_reviews.csv'),
     'processed_reviews': os.path.join(PROJECT_ROOT, 'data', 'processed', 'reviews_processed.csv'),
     'sentiment_results': os.path.join(PROJECT_ROOT, 'data', 'processed', 'reviews_with_sentiment.csv'),
     'final_results': os.path.join(PROJECT_ROOT, 'data', 'processed', 'reviews_final.csv')
