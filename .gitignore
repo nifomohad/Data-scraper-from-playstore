@@ -1,5 +1,5 @@
 /venv
 /data
-# /notebook/preprocessing_EDA.ipynb
+/notebook/.ipynb_checkpoints
 /scripts/__pycache__
 
